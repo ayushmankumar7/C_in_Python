@@ -1,0 +1,1 @@
+SharedLibrary("output", "example.c")
